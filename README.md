@@ -4,7 +4,7 @@ This project applies deep learning techniques to classify ECG signals using the 
 
 ## Project Overview
 
-Electrocardiogram (ECG) classification helps detect heart arrhythmias early. This project uses a hybrid deep learning model (CNN + GRU) to classify ECG signals into five categories based on extracted features.
+Electrocardiogram (ECG) classification helps detect heart arrhythmias early. This project uses a hybrid deep learning model (CNN + GRU) to classify ECG signals into five categories based on extracted features with accuracy 97.6%
 
 ## Dataset
 
